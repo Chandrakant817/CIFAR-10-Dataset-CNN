@@ -4,5 +4,5 @@
 
 ### References
 
-##### https://www.tensorflow.org/tutorials/images/cnn
-##### https://youtu.be/SH8D4WJBhms
+#### https://www.tensorflow.org/tutorials/images/cnn
+#### https://youtu.be/SH8D4WJBhms
